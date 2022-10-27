@@ -10,18 +10,16 @@
 </head>
 <body>
 <h1 align="center"> Devops Training by Mithun Technology  </h1>
-<h1 align="center"> This is Pamu Ravi. President</h1>
+<h1 align="center"> This is Pamu Ravi</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mylandmarklogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		Dallas, TX USA, 
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Korukollu,
+		Krishna district
+		ravitechdevops@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
