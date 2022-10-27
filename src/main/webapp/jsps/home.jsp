@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center"> Devops Training by Mithun Technology  </h1>
-<h1 align="center"> This is Pamu Ravi</h1>
+<h1 align="center"> This is Pamu Ravi & Sirisha </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
